@@ -1,3 +1,5 @@
+// From https://nvbn.github.io/2015/06/19/jekyll-browsersync/
+
 var gulp = require('gulp');
 var shell = require('gulp-shell');
 var browserSync = require('browser-sync').create();
