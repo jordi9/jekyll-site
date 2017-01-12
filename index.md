@@ -1,9 +1,13 @@
 ---
-#layout: home
+layout: page
 ---
 
-<body>
 Howdy brah  aaa
-aaaa 
+aaaa
 saa
-</body>
+
+aa
+
+# Foo bar
+
+bax
